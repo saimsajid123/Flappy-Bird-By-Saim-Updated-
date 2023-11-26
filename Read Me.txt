@@ -1,0 +1,7 @@
+You can play game by down and up arrow
+
+once the game is over 
+you can press e to exist the game or r(twice) to restart the game
+
+
+This Game is Made by Muhammad Saim Sajid
